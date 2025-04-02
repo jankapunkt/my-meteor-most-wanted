@@ -7,6 +7,7 @@ My personal most wanted MeteorJS features which I may also implement one day.
 - MUP-Backup - setting up a cron job (or service) that automatically runs a database backup at a specific time for a given endoint
 - MUP-Under-Construction - display an under-construction page for when a new deployment is done
 - MUP-deploy-tag - automatically adds a deploy tag on deploy ti git
+- MUP-public-folder - a public folder you can place inside .deploy that replaces files in /public
 
 ## Tests
 
